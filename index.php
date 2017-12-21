@@ -28,9 +28,11 @@
         ================================================== -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-        <!--- Meta tag to referesh the page every 2 seconds-->
-        <!--    ================================================== -->
-        <!--    <meta http-equiv="refresh", content="2">-->
+        <!--- Linking Google Fonts
+       ================================================== -->
+
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100">
+
 
         <!--- Linking Bootstrap
        ================================================== -->
@@ -48,13 +50,15 @@
 
 
 
+
+
+        <!--- Linking jQuery File
+        ================================================== -->
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+
         <!--- Linking Javascript File
           ================================================== -->
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
-        <!--- Linking jQuery File
-      ================================================== -->
-        <script type="text/javascript" src="js/jquery.min.js"></script>
 
     </body>
 
