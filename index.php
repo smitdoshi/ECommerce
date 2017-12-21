@@ -37,6 +37,11 @@
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="style/bootstrap.min.css">
 
+        <!--- Linking Font Awsome
+       ================================================== -->
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
     </head>
 
     <body>
@@ -46,7 +51,7 @@
         <!--- Linking Bootstrap Javascript File
           ================================================== -->
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    
+
     </body>
 
 </html>
