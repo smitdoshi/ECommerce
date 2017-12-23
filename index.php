@@ -125,10 +125,11 @@
 
                     </button>
 
-                    <button type="button" class="navbar-toggle" data-toggle="navbar-toggle" data-target="#search">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#search">
                         <span class="sr-only">Toggle Search</span>
 
                         <i class="fa fa-search"></i>
+
                     </button>
 
                 </div> <!-- navbar-header End -->
