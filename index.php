@@ -192,11 +192,15 @@
 
                                 <input class="form-control" type="text" placeholder="Search" name="user_query" required>
 
-                                <button type="submit" value="Search" name="search" class="btn btn-primary">
+                                <span class="input-group-btn"> <!-- input-group-btn Starts -->
 
-                                    <i class="fa fa-search"></i>
+                                    <button type="submit" value="Search" name="search" class="btn btn-primary">
 
-                                </button>
+                                        <i class="fa fa-search"></i>
+
+                                    </button>
+
+                                </span> <!-- input-group-btn Ends -->
 
                             </div> <!-- input-group Ends -->
 
