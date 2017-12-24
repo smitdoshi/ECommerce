@@ -103,9 +103,29 @@
                             <input type="submit" value="subscribe" class="btn btn-default">
 
                         </span> <!-- input-group-btn Ends -->
+
                     </div> <!-- input-group Ends -->
+
                 </form> <!-- form Ends -->
+
+                <hr>
+
+                <h4> Stay in touch </h4>
+
+                <p class="social"> <!-- social Starts-->
+
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-google-plus"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+
+                </p> <!-- social Ends -->
+
             </div> <!-- col-md-3 col-sm-6 Ends -->
+
         </div> <!-- row Ends -->
+
     </div> <!-- container Ends -->
+
 </div> <!-- footer Ends -->
