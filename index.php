@@ -214,8 +214,51 @@
 
         </div> <!-- navbar navbar-default Ends -->
 
+        <!--- Main Seaction
+        ================================================== -->
 
+        <div class="container" id="slider"> <!-- Container Starts -->
 
+            <div class="col-md-12"> <!-- col-md-12 starts -->
+
+                <div id="myCarousel" class="carousel slide" data-ride="carousel"> <!-- carousel slide Starts -->
+
+                    <ol class="carousel-indicators"> <!-- carousel-indicators Starts -->
+
+                        <li data-target="#myCarousel" data-slide-to ="0" class="active"></li>
+
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+
+                    </ol> <!-- carousel-indicators Ends -->
+
+                    <div class="carousel-inner"> <!-- carousel-inner Starts -->
+
+                        <div class="item active">
+                            <img src="admin_panel/carousel_images/3.jpeg">
+                        </div>
+
+                        <div class="item">
+                            <img src="admin_panel/carousel_images/4.jpeg">
+                        </div>
+
+                        <div class="item">
+                            <img src="admin_panel/carousel_images/8.jpeg">
+                        </div>
+                        <div class="item">
+                            <img src="admin_panel/carousel_images/6.jpeg">
+                        </div>
+
+                    </div> <!-- carousel-inner Ends -->
+
+                    
+
+                </div> <!-- carousel slide Ends -->
+
+            </div> <!-- col-md-12 Ends -->
+
+        </div> <!-- Container Ends -->
 
         <!--- Linking jQuery File
         ================================================== -->
