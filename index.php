@@ -352,7 +352,7 @@
 
                     <div class="col-md-12"> <!-- col-md-12 Starts -->
 
-                        <h2> New Arrival this Week </h2>
+                        <h2> New Arrivals </h2>
 
                     </div> <!-- col-md-12 Ends -->
 
