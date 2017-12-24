@@ -363,9 +363,125 @@
         </div> <!-- hot Ends -->
 
 
-        <div id="contents" class="container"> <!-- container Starts -->
+        <div id="content" class="container"> <!-- container Starts -->
 
             <div class="row"> <!-- row Starts -->
+
+                <div class="col-sm-4 col-sm-6 single"> <!-- col-sm-4 col-sm-6 single Starts-->
+
+                    <div class="product"> <!-- product Starts -->
+
+                        <a href="details.php">
+                            <img src="admin_panel/product_images/10.jpeg" class="img-responsive">
+                        </a>
+
+                        <div class="text"> <!-- text Starts -->
+
+                            <h3><a href="details.php">Armani Suites</a></h3>
+
+                            <p class="price">$150</p>
+
+                            <p class="buttons">
+
+                                <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                <a href="details.php" class="btn btn-primary">
+                                    <i class="fa fa-shopping-cart"></i> Add to Cart
+                                </a>
+                            </p>
+
+                        </div> <!-- text Ends -->
+
+                    </div> <!-- product Ends-->
+
+                </div> <!-- col-sm-4 col-sm-6 single Ends -->
+
+                <div class="col-sm-4 col-sm-6 single"> <!-- col-sm-4 col-sm-6 single Starts-->
+
+                    <div class="product"> <!-- product Starts -->
+
+                        <a href="details.php">
+                            <img src="admin_panel/product_images/10.jpeg" class="img-responsive">
+                        </a>
+
+                        <div class="text"> <!-- text Starts -->
+
+                            <h3><a href="details.php">Armani Suites</a></h3>
+
+                            <p class="price">$150</p>
+
+                            <p class="buttons">
+
+                                <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                <a href="details.php" class="btn btn-primary">
+                                    <i class="fa fa-shopping-cart"></i> Add to Cart
+                                </a>
+                            </p>
+
+                        </div> <!-- text Ends -->
+
+                    </div> <!-- product Ends-->
+
+                </div> <!-- col-sm-4 col-sm-6 single Ends -->
+
+                <div class="col-sm-4 col-sm-6 single"> <!-- col-sm-4 col-sm-6 single Starts-->
+
+                    <div class="product"> <!-- product Starts -->
+
+                        <a href="details.php">
+                            <img src="admin_panel/product_images/10.jpeg" class="img-responsive">
+                        </a>
+
+                        <div class="text"> <!-- text Starts -->
+
+                            <h3><a href="details.php">Armani Suites</a></h3>
+
+                            <p class="price">$150</p>
+
+                            <p class="buttons">
+
+                                <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                <a href="details.php" class="btn btn-primary">
+                                    <i class="fa fa-shopping-cart"></i> Add to Cart
+                                </a>
+                            </p>
+
+                        </div> <!-- text Ends -->
+
+                    </div> <!-- product Ends-->
+
+                </div> <!-- col-sm-4 col-sm-6 single Ends -->
+
+                <div class="col-sm-4 col-sm-6 single"> <!-- col-sm-4 col-sm-6 single Starts-->
+
+                    <div class="product"> <!-- product Starts -->
+
+                        <a href="details.php">
+                            <img src="admin_panel/product_images/10.jpeg" class="img-responsive">
+                        </a>
+
+                        <div class="text"> <!-- text Starts -->
+
+                            <h3><a href="details.php">Armani Suites</a></h3>
+
+                            <p class="price">$150</p>
+
+                            <p class="buttons">
+
+                                <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                <a href="details.php" class="btn btn-primary">
+                                    <i class="fa fa-shopping-cart"></i> Add to Cart
+                                </a>
+                            </p>
+
+                        </div> <!-- text Ends -->
+
+                    </div> <!-- product Ends-->
+
+                </div> <!-- col-sm-4 col-sm-6 single Ends -->
 
                 <div class="col-sm-4 col-sm-6 single"> <!-- col-sm-4 col-sm-6 single Starts-->
 
