@@ -144,3 +144,11 @@ body{
 #search .navbar-form .input-group .form-control{
     width: 100%;
 }
+
+
+/* Carousel Slider Styles */
+
+#slider{
+    margin-bottom: 40px;
+
+}
