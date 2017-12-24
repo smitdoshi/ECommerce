@@ -603,6 +603,12 @@
 
         </div> <!-- container Ends -->
 
+        <!-- Footer Starts -->
+        <?php
+            include ("includes/footer.php");
+        ?>
+
+        <!-- Footer Ends -->
 
         <!--- Linking Bootstrap CDN
        ================================================== -->
