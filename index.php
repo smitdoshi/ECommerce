@@ -290,7 +290,6 @@
                             </div>
 
                             <h3><a href="#"> WE LOVE OUR CUSTOMERS </a></h3>
-
                             <p>
                                 We are known to provide best possible service ever
                             </p>
@@ -325,7 +324,7 @@
 
                             <div class="icon">
 
-                                <i class="fa fa-tags"></i>
+                                <i class="fa fa-thumbs-up"></i>
 
                             </div>
 
@@ -344,6 +343,24 @@
             </div> <!-- Container Ends -->
 
         </div> <!-- advantages Ends -->
+
+        <div id="hot"> <!-- hot Starts -->
+
+            <div class="box"> <!-- box Starts -->
+
+                <div class="container"> <!-- container Starts-->
+
+                    <div class="col-md-12"> <!-- col-md-12 Starts -->
+
+                        <h2> New Arrival this Week </h2>
+
+                    </div> <!-- col-md-12 Ends -->
+
+                </div> <!-- container Ends-->
+
+            </div> <!-- box Ends -->
+
+        </div> <!-- hot Ends -->
 
 
         <!--- Linking Bootstrap CDN
