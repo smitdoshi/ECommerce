@@ -236,7 +236,7 @@
                     <div class="carousel-inner"> <!-- carousel-inner Starts -->
 
                         <div class="item active">
-                            <img src="admin_panel/carousel_images/3.jpeg">
+                            <img src="admin_panel/carousel_images/6.jpeg">
                         </div>
 
                         <div class="item">
@@ -247,7 +247,7 @@
                             <img src="admin_panel/carousel_images/5.jpeg">
                         </div>
                         <div class="item">
-                            <img src="admin_panel/carousel_images/6.jpeg">
+                            <img src="admin_panel/carousel_images/3.jpeg">
                         </div>
 
                     </div> <!-- carousel-inner Ends -->
@@ -377,7 +377,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -406,7 +406,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -435,7 +435,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -464,7 +464,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -493,7 +493,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -522,7 +522,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suit</a></h3>
 
                             <p class="price">$150</p>
 
@@ -551,7 +551,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 
@@ -580,7 +580,7 @@
 
                         <div class="text"> <!-- text Starts -->
 
-                            <h3><a href="details.php">Armani Suites</a></h3>
+                            <h3><a href="details.php">Armani Suits</a></h3>
 
                             <p class="price">$150</p>
 

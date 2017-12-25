@@ -129,3 +129,27 @@
     </div> <!-- container Ends -->
 
 </div> <!-- footer Ends -->
+
+<div id="copyright"> <!-- copyright Starts -->
+
+    <div class="container"> <!-- container Starts -->
+
+        <div class="col-md-6"> <!-- col-md-6 Starts -->
+
+            <p class="pull-left"> &copy; 2017 Smit Doshi</p>
+
+        </div> <!-- col-md-6 Ends -->
+
+        <div class="col-md-6"> <!-- col-md-6 Starts -->
+
+            <p class="pull-right">
+
+                Template by <a href="#">Company Link</a>
+
+            </p>
+
+        </div> <!-- col-md-6 Ends -->
+
+    </div> <!-- container Ends -->
+
+</div> <!-- copyright Ends -->
