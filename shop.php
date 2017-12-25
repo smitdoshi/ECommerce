@@ -241,6 +241,233 @@
 
                 </div> <!-- col-md-3 Ends -->
 
+                <div class="col-md-9"> <!-- col-md-9 Starts -->
+
+                    <div class="box"> <!-- box Starts -->
+
+                        <h1>Shop</h1>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non tortor quis mi laoreet lobortis eget quis justo.
+                            Mauris suscipit, augue vitae aliquet finibus, lacus neque sagittis nisi, non sagittis dui elit eget magna.</p>
+
+                    </div> <!-- box Ends -->
+
+
+                    <div class="row"> <!-- row Starts -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+                                    
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+
+                        </div> <!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+
+                        </div> <!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+
+                        </div> <!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+
+                        </div> <!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+
+                        </div> <!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+                        <div class="col-md-4 col-sm-6 center-responsive"> <!-- col-md-4 col-sm-6 center-responsive Starts -->
+
+                            <div class="product"> <!-- product Starts -->
+
+                                <a href="details.php"> <!-- a Starts -->
+
+                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+
+                                </a> <!-- a Ends -->
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3>
+                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
+                                            voluptatum exerci.</a>
+                                    </h3>
+
+                                    <p class="price">$55</p>
+
+                                    <p class="buttons">
+
+                                        <a href="details.php" class="btn btn-default"> View Details </a>
+
+                                        <a href="details.php" class="btn btn-primary">
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                                        </a>
+
+                                    </p>
+
+                                </div> <!-- text Ends -->
+
+                            </div> <!-- product Ends -->
+                        
+
+                    </div> <!-- row Ends -->
+
+                </div> <!-- col-md-9 Ends -->
+
             </div> <!-- container Ends -->
 
         </div> <!-- content Ends -->
