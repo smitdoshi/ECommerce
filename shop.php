@@ -261,15 +261,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
                                     
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php"> Keep Calm and Shine On</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -296,15 +295,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
 
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php">Keep Calm and Shine On.</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -331,15 +329,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
 
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php"> Keep Calm and Shine On.</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -366,15 +363,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
 
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php">Keep Calm and Shine On.</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -401,15 +397,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
 
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php">Keep Calm and Shine On.</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -436,15 +431,14 @@
 
                                 <a href="details.php"> <!-- a Starts -->
 
-                                    <img src="admin_panel/product_images/product.png" class="img-responsive">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
 
                                 </a> <!-- a Ends -->
 
                                 <div class="text"> <!-- text Starts -->
 
                                     <h3>
-                                        <a href="details.php"> Lorem ipsum dolor sit amet, eos id sonet tritani, cum ad decore quaeque deterruisset, sed an ubique labores
-                                            voluptatum exerci.</a>
+                                        <a href="details.php"> Keep Calm and Shine On.</a>
                                     </h3>
 
                                     <p class="price">$55</p>
@@ -465,6 +459,23 @@
 
 
                     </div> <!-- row Ends -->
+
+                        <div align="center"> <!-- center Starts -->
+
+                            <ul class="pagination"> <!-- pagination Starts -->
+
+                                <li><a href="shop.php">First Page</a></li>
+                                <li><a href="shop.php">1</a></li>
+                                <li><a href="shop.php">2</a></li>
+                                <li><a href="shop.php">3</a></li>
+                                <li><a href="shop.php">4</a></li>
+                                <li><a href="shop.php">5</a></li>
+                                <li><a href="shop.php">Last Page</a></li>
+
+                            </ul> <!-- pagination Ends-->
+
+                        </div> <!--center Ends -->
+
 
                 </div> <!-- col-md-9 Ends -->
 
