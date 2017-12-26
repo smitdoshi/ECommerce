@@ -380,7 +380,7 @@
 
                                     </div> <!-- form-group Ends -->
 
-                                    <p class="price" align="center">$55</p>
+                                    <p class="price">$55</p>
 
                                     <p class="text-center buttons"> <!-- text-center buttons Starts -->
 
