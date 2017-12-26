@@ -380,13 +380,155 @@
 
                                     </div> <!-- form-group Ends -->
 
+                                    <p class="price" align="center">$55</p>
+
+                                    <p class="text-center buttons"> <!-- text-center buttons Starts -->
+
+                                        <button class="btn btn-primary" type="submit">
+
+                                            <i class="fa fa-shopping-cart"></i> Add to Cart
+
+                                        </button>
+
+                                    </p> <!-- text-center buttons Ends -->
+
                                 </form> <!-- form-horizontal Ends -->
 
                             </div> <!-- box Ends -->
 
+                            <div class="row" id="thumbs"> <!-- row Starts -->
+
+                                <div class="col-xs-4"> <!-- col-xs-4 Starts -->
+
+                                    <a  href="#" class="thumb">
+                                        
+                                        <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                                        
+                                    </a>
+
+                                </div> <!-- col-xs-4 Ends-->
+
+                                <div class="col-xs-4"> <!-- col-xs-4 Starts -->
+
+                                    <a  href="#" class="thumb">
+
+                                        <img src="admin_panel/product_images/product2.jpg" class="img-responsive">
+
+                                    </a>
+
+                                </div> <!-- col-xs-4 Ends-->
+
+                                <div class="col-xs-4"> <!-- col-xs-4 Starts -->
+
+                                    <a  href="#" class="thumb">
+
+                                        <img src="admin_panel/product_images/product5.jpg" class="img-responsive">
+
+                                    </a>
+
+                                </div> <!-- col-xs-4 Ends-->
+
+                            </div> <!-- row Ends -->
+
                         </div> <!-- col-sm-6 Ends -->
 
                     </div> <!-- row Ends -->
+
+                    <div class="box" id="details"> <!-- box Starts -->
+
+                        <p> <!-- p starts -->
+
+                        <h4>Product Details</h4>
+                        <p>
+                            Product Description goes here.
+                        </p>
+
+                        <h4> Size </h4>
+
+                        <ul>
+                            <li>Small</li>
+                            <li>Medium</li>
+                            <li>Large</li>
+
+                        </ul>
+                        </p> <!-- p Ends -->
+                        <hr>
+
+                    </div> <!-- box Ends -->
+
+                    <div id="row same-height-row"> <!-- row same-height-row Starts -->
+
+                        <div class="col-md-3 col-sm-6"> <!-- col-md-3 col-sm-6 Starts -->
+
+                            <div class="box same-height headline"> <!-- box same-height headline Starts -->
+
+                                <h3 class="text-center">You also like these Products </h3>
+
+                            </div> <!-- box same-height headline Ends -->
+
+                        </div> <!-- col-md-3 col-sm-6 Ends -->
+
+                        <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                            <div class="product same-height"> <!-- product same-height Starts -->
+
+                                <a href="details.php">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                                </a>
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                    <p class="price">$55</p>
+
+                                </div> <!--text Ends -->
+
+                            </div> <!-- product same-height Ends -->
+
+                        </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                        <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                            <div class="product same-height"> <!-- product same-height Starts -->
+
+                                <a href="details.php">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                                </a>
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                    <p class="price">$55</p>
+
+                                </div> <!--text Ends -->
+
+                            </div> <!-- product same-height Ends -->
+
+                        </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                        <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                            <div class="product same-height"> <!-- product same-height Starts -->
+
+                                <a href="details.php">
+                                    <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                                </a>
+
+                                <div class="text"> <!-- text Starts -->
+
+                                    <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                    <p class="price">$55</p>
+
+                                </div> <!--text Ends -->
+
+                            </div> <!-- product same-height Ends -->
+
+                        </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                    </div> <!-- row same-height-row Ends-->
 
                 </div> <!-- col-md-9 Ends-->
 
