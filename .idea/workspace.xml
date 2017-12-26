@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7965d6c6-0c66-4ec9-82ad-da7608053e9d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin_panel/product_images/product.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin_panel/product_images/product1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.php" afterPath="$PROJECT_DIR$/shop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/details.php" afterPath="$PROJECT_DIR$/details.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +64,8 @@
       <file leaf-file-name="details.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="335" column="24" lean-forward="false" selection-start-line="335" selection-start-column="24" selection-end-line="335" selection-end-column="24" />
+            <state relative-caret-position="380">
+              <caret line="374" column="70" lean-forward="false" selection-start-line="374" selection-start-column="70" selection-end-line="374" selection-end-column="70" />
               <folding>
                 <element signature="e#6#91#0#PHP" expanded="true" />
               </folding>
@@ -309,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513858579524</updated>
       <workItem from="1513858581013" duration="6285000" />
-      <workItem from="1514055127214" duration="24867000" />
+      <workItem from="1514055127214" duration="26009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31152000" />
+    <option name="totallyTimeSpent" value="32294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="714" extended-state="6" />
@@ -429,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/details.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="335" column="24" lean-forward="false" selection-start-line="335" selection-start-column="24" selection-end-line="335" selection-end-column="24" />
+        <state relative-caret-position="380">
+          <caret line="374" column="70" lean-forward="false" selection-start-line="374" selection-start-column="70" selection-end-line="374" selection-end-column="70" />
           <folding>
             <element signature="e#6#91#0#PHP" expanded="true" />
           </folding>

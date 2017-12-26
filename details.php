@@ -333,7 +333,58 @@
 
                         </div> <!-- col-md-6 Ends-->
 
-                        
+                        <div class="col-sm-6"> <!-- col-sm-6 Starts -->
+
+                            <div class="box"> <!-- box Starts -->
+
+                                <h1 class="text-center">Keep Calm and Shine ON</h1>
+
+                                <form action="details.php" method="post" class="form-horizontal"> <!-- form-horizontal Starts -->
+
+                                    <div class="form-group"> <!-- form-group Starts -->
+
+                                        <label class="col-md-5 control-label">Product Quantity</label>
+
+                                        <div class="col-md-7"> <!-- col-md-7 Starts -->
+
+                                            <select name="product_qty" class="form-control">
+                                                
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+
+                                            </select>
+
+                                        </div> <!-- col-md-7 Ends -->
+
+                                    </div> <!-- form-group Ends -->
+
+                                    <div class="form-group"> <!-- form-group Starts -->
+
+                                        <label class="col-md-5 control-label">Product Size</label>
+
+                                        <div class="col-md-7"> <!-- col-md-7 Starts -->
+
+                                            <select name="product_size" class="form-control">
+
+                                                <option>Select a Size</option>
+                                                <option>Small</option>
+                                                <option>Medium</option>
+                                                <option>Large</option>
+
+                                            </select>
+
+                                        </div> <!-- col-md-7 Ends -->
+
+                                    </div> <!-- form-group Ends -->
+
+                                </form> <!-- form-horizontal Ends -->
+
+                            </div> <!-- box Ends -->
+
+                        </div> <!-- col-sm-6 Ends -->
 
                     </div> <!-- row Ends -->
 
