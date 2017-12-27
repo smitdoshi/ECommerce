@@ -296,6 +296,45 @@
 
                                         <td>
 
+                                            <input type="checkbox"name=" remove[]"> <!-- remove item -->
+
+                                        </td>
+
+                                        <td>
+
+                                            $110.00 <!-- total price -->
+
+                                        </td>
+
+                                    </tr> <!-- tr Ends -->
+
+                                    <tr> <!-- tr start -->
+
+                                        <td>
+
+                                            <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+
+                                        </td>
+
+                                        <td>
+                                            <a href="#">Keep Calm and Smile On.</a>
+
+                                        </td>
+
+                                        <td>
+                                            2 <!-- quantity -->
+                                        </td>
+
+                                        <td>
+                                            $55.00 <!-- price -->
+                                        </td>
+
+                                        <td>
+                                            Large <!-- size -->
+                                        </td>
+
+                                        <td>
+
                                             <input type="checkbox" name="remove[]"> <!-- remove item -->
 
                                         </td>
@@ -306,19 +345,231 @@
 
                                         </td>
 
-                                    </tr> <!-- tr closed -->
+                                    </tr> <!-- tr Ends -->
+
+                                    <tr> <!-- tr start -->
+
+                                        <td>
+
+                                            <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+
+                                        </td>
+
+                                        <td>
+                                            <a href="#">Keep Calm and Smile On.</a>
+
+                                        </td>
+
+                                        <td>
+                                            2 <!-- quantity -->
+                                        </td>
+
+                                        <td>
+                                            $55.00 <!-- price -->
+                                        </td>
+
+                                        <td>
+                                            Large <!-- size -->
+                                        </td>
+
+                                        <td>
+
+                                            <input type="checkbox" name="remove[]"> <!-- remove item -->
+
+                                        </td>
+
+                                        <td>
+
+                                            $110.00 <!-- total price -->
+
+                                        </td>
+
+                                    </tr> <!-- tr Ends -->
 
                                 </tbody> <!-- tbody Ends -->
+
+                                <tfoot> <!-- tfoot Starts -->
+
+                                    <tr>
+
+                                        <th colspan="5">Total</th>
+
+                                        <th colspan="2"> $100.00</th>
+
+                                    </tr>
+
+                                </tfoot> <!-- tfoot Ends -->
 
                             </table> <!-- table closed -->
 
                         </div> <!-- table-responsive Ends -->
 
+                        <div class="box-footer"> <!-- box-footer Starts -->
+
+                            <div class="pull-left"> <!-- pull-left Starts -->
+
+                                <a href="index.php" class="btn btn-default">
+
+                                    <i class="fa fa-chevron-left"></i> Continue Shopping
+
+                                </a>
+
+                            </div> <!-- pull-left Ends -->
+
+                            <div class="pull-right"> <!-- pull-right Starts -->
+
+                                <button class="btn btn-default" type="submit" name="update" value="Update Cart">
+
+                                    <i class="fa fa-refresh"></i> Update Cart
+
+                                </button>
+
+                                <a href="checkout.php" class="btn btn-primary">
+                                    Proceed to checkout <i class="fa fa-chevron-right"></i>
+                                </a>
+
+                            </div> <!-- pull-right Ends-->
+
+                        </div> <!-- box-footer Ends -->
+
                     </form> <!-- form Ends -->
 
                 </div> <!-- box ends -->
 
+                <div id="row same-height-row"> <!-- row same-height-row Starts -->
+
+                    <div class="col-md-3 col-sm-6"> <!-- col-md-3 col-sm-6 Starts -->
+
+                        <div class="box same-height headline"> <!-- box same-height headline Starts -->
+
+                            <h3 class="text-center">You also like these Products </h3>
+
+                        </div> <!-- box same-height headline Ends -->
+
+                    </div> <!-- col-md-3 col-sm-6 Ends -->
+
+                    <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                        <div class="product same-height"> <!-- product same-height Starts -->
+
+                            <a href="details.php">
+                                <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                            </a>
+
+                            <div class="text"> <!-- text Starts -->
+
+                                <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                <p class="price">$55</p>
+
+                            </div> <!--text Ends -->
+
+                        </div> <!-- product same-height Ends -->
+
+                    </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                    <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                        <div class="product same-height"> <!-- product same-height Starts -->
+
+                            <a href="details.php">
+                                <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                            </a>
+
+                            <div class="text"> <!-- text Starts -->
+
+                                <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                <p class="price">$55</p>
+
+                            </div> <!--text Ends -->
+
+                        </div> <!-- product same-height Ends -->
+
+                    </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                    <div class="center-responsive col-md-3 col-sm-6"> <!-- center-responsive col-md-3 col-sm-6 Starts -->
+
+                        <div class="product same-height"> <!-- product same-height Starts -->
+
+                            <a href="details.php">
+                                <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+                            </a>
+
+                            <div class="text"> <!-- text Starts -->
+
+                                <h3> <a href="details.php">Keep Calm and Shine On</a> </h3>
+
+                                <p class="price">$55</p>
+
+                            </div> <!--text Ends -->
+
+                        </div> <!-- product same-height Ends -->
+
+                    </div> <!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+                </div> <!-- row same-height-row Ends-->
+
             </div> <!-- col-md-9 Ends -->
+
+            <div class="col-md-3">  <!-- col-md-3 Starts (Sidebar) -->
+
+                <div class="box" id="order-summary"> <!-- box Starts -->
+
+                    <div class="box-header"> <!-- box-header Starts -->
+
+                        <h3>Order Summary</h3>
+
+                    </div> <!-- box-header Ends -->
+
+                    <p class="text-muted">
+                        Shipping and additional cost are calculated based on the values you have entered.
+                    </p>
+
+                    <div class="table-responsive"> <!-- table-responsive Starts -->
+
+                        <table class="table"> <!-- table Starts -->
+
+                            <tbody> <!-- tbody Starts -->
+
+                                <tr>
+                                    <td> Order Subtotal </td>
+
+                                    <th> $200.00</th>
+                                </tr>
+
+                                <tr>
+
+                                    <td>Shipping and handling</td>
+                                    <td> $0.00</td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td>Tax</td>
+
+                                    <th>$0.00</th>
+
+                                </tr>
+
+                                <tr class="total">
+
+                                    <td>Total</td>
+
+                                    <th>$200.00</th>
+
+                                </tr>
+
+                            </tbody> <!-- tbody Ends -->
+
+                        </table> <!-- table Ends -->
+
+                    </div> <!-- table-responsive Ends -->
+
+                </div> <!-- box Ends -->
+
+            </div> <!-- col-md-3 Ends (SideBard) -->
 
         </div> <!-- container Ends -->
 
