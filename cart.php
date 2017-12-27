@@ -142,7 +142,7 @@
                             <a href="index.php"> Home </a>
                         </li>
 
-                        <li class="active">
+                        <li>
                             <a href="shop.php"> Shop</a>
                         </li>
 
@@ -150,7 +150,7 @@
                             <a href="checkout.php"> My Account</a>
                         </li>
 
-                        <li>
+                        <li  class="active">
                             <a href="cart.php"> Shopping Cart</a>
                         </li>
 
@@ -232,6 +232,93 @@
                 </ul> <!-- breadcrumb Ends -->
 
             </div> <!-- col-md-12 Ends -->
+
+            <div class="col-md-9" id="cart">  <!-- col-md-9 Starts -->
+
+                <div class="box"> <!-- box starts -->
+
+                    <form action="cart.php" method="post" enctype="multipart/form-data"> <!-- form Starts -->
+
+                        <h1> Shopping Cart </h1>
+
+                        <p class="text-muted"> You currently have 3 item(s) in your cart.</p>
+
+                        <div class="table-responsive"> <!-- table-responsive Starts -->
+
+                            <table class="table"> <!-- table Starts -->
+
+                                <thead> <!-- thead starts -->
+
+                                    <tr>
+
+                                        <th colspan="2">Product</th>
+
+                                        <th>Quantity</th>
+
+                                        <th>Unit Price</th>
+
+                                        <th>Size</th>
+
+                                        <th colspan="1">Delete</th>
+
+                                        <th colspan="2">Sub Total</th>
+
+                                    </tr>
+
+                                </thead> <!-- thead closed-->
+
+                                <tbody> <!-- tbody Starts -->
+
+                                    <tr> <!-- tr start -->
+
+                                        <td>
+
+                                            <img src="admin_panel/product_images/product.jpg" class="img-responsive">
+
+                                        </td>
+
+                                        <td>
+                                            <a href="#">Keep Calm and Smile On.</a>
+
+                                        </td>
+
+                                        <td>
+                                            2 <!-- quantity -->
+                                        </td>
+
+                                        <td>
+                                            $55.00 <!-- price -->
+                                        </td>
+
+                                        <td>
+                                            Large <!-- size -->
+                                        </td>
+
+                                        <td>
+
+                                            <input type="checkbox" name="remove[]"> <!-- remove item -->
+
+                                        </td>
+
+                                        <td>
+
+                                            $110.00 <!-- total price -->
+
+                                        </td>
+
+                                    </tr> <!-- tr closed -->
+
+                                </tbody> <!-- tbody Ends -->
+
+                            </table> <!-- table closed -->
+
+                        </div> <!-- table-responsive Ends -->
+
+                    </form> <!-- form Ends -->
+
+                </div> <!-- box ends -->
+
+            </div> <!-- col-md-9 Ends -->
 
         </div> <!-- container Ends -->
 
